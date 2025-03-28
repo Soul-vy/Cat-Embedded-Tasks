@@ -20,5 +20,5 @@ bro code (bubble,selection sort)
 >
 > CAT 5 resources :-
 >
-> Adel Nasim (linear,binary search)
+Adel Nasim (linear,binary search)
 >
